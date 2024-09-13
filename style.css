@@ -1,0 +1,9 @@
+.tabela{
+  border: double, blue;
+}
+.tabela th {
+  border: double, red;
+}
+.tabela td {
+  border: double, cyan;
+}
